@@ -22,6 +22,15 @@ A minimalist, high-contrast, distraction-free theme configuration for iTerm2. Bu
 5. Select **Import JSON Profile...** and choose the downloaded file.
 6. Select **AmberAbyss** from your profile list and click **Other Actions... -> Set as Default**.
 
+## 🚀 Quick Universal Installation
+
+Run this single command inside your Unix terminal to automatically pull down the color maps and execute the theme installation workflow instantly:
+
+```bash
+curl -sSL https://raw.githubusercontent.com/praveenprk/AmberAbyss/refs/heads/main/install.sh | bash
+```
+
+
 ---
 *Crafted entirely by hand for a focused, terminal-centric development flow.*
 
