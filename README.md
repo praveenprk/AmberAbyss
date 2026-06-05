@@ -2,7 +2,7 @@
 
 A minimalist, high-contrast, distraction-free theme configuration for iTerm2. Built entirely by hand to escape standard harsh terminal colors and deliver a deeply rooted, retro-modern coding environment.
 
-![iTerm2 Custom Theme](https://shields.io)
+![iTerm2 Custom Theme](https://shields.io/badge/iTerm2-Profile-FFB300)
 
 ## ✨ Core Design Features
 
